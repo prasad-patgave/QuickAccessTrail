@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+<AddIn Type="Application">
+                <Name>QuickAccessTrail</Name>
+                <Assembly>QuickAccessTrail\QuickAccessTrail.dll</Assembly>
+                <AddInId>e3c43489-a15b-4653-b016-d3ba98d7b9b4</AddInId>
+                <FullClassName>QuickAccessTrail.Main</FullClassName>
+                <VendorId>Prasad Patgave</VendorId>
+                <VendorDescription>prasad.patgave@gmail.com</VendorDescription>
+</AddIn>
+</RevitAddIns>

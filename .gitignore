@@ -1,0 +1,15 @@
+
+# Visual Studio temporary files
+.vs/
+
+# Build output
+bin/
+obj/
+
+# Debug files
+*.pdb
+*.cache
+
+# User-specific settings
+*.user
+*.suo
