@@ -39,7 +39,6 @@ The following tools are represented in the project source code:
 ## Technologies Used
 
 | Technology | Purpose |
-|---|---|
 | C# | Application development |
 | Autodesk Revit API | Revit automation |
 | WPF | User interface development |
@@ -47,6 +46,17 @@ The following tools are represented in the project source code:
 | .NET | Application framework |
 | Visual Studio | Development and debugging |
 | Git & GitHub | Version control |
+
+## Technical Specifications
+| Revit Version | Autodesk Revit 2024 |
+| Target Framework | .NET Framework 4.8 |
+| C# Language Version | 7.3 (x64 configurations) |
+| Platform | x64 |
+| UI Framework | Windows Presentation Foundation (WPF) |
+| UI Markup | XAML |
+| API References | RevitAPI.dll and RevitAPIUI.dll |
+
+
 
 ## Project Architecture
 
